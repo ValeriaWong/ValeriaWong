@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**ValeriaWong/ValeriaWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 
 
@@ -40,20 +23,26 @@ Here are some ideas to get you started:
 
 
 ## 💬 Talk with me 
-- Backend web development(nodejs,go,rust)
-- Frontend web development(vue,uniapp,react,qwik)
+- Struggling for ethsis(VQA, NLP)
+- AI engineer(python, langchain, Matlab)
+- prompt engineer(CoT, ToT)
+- DevOps(jenkins, nginx, CI/CD)
+- Frontend web development(vue, react, docker)
 - Cool idea about production
 
 ## 📅 Hobbies
-- swimmming at 7:00  🏊‍♀️
-- reading by the lake 📚
+- guitar 🎸
+- piano 🎹
+- reading 📚
+- dubbing 😈
 - developing warm product🏖
-- sleeping before 24:00 🚼
+- sleeping after 24:00 🚼
 - etc.
 
+## Hi there 👋
 
-
-<!-- **Leizhenpeng/Leizhenpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+**ValeriaWong/ValeriaWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
