@@ -6,7 +6,7 @@
 </div>
 
 
-<h1 align="center">God dag 👋,  I'm ValeriaWong </h1>
+<h1 align="center">Qiao 👋,  I'm ValeriaWong </h1>
 <h3 align="center">A SHMTU master student in software engineering </h3>
 <h3 align="center">A Intern lawyer in SH Joint-Win </h3>
 
@@ -58,5 +58,7 @@ Here are some ideas to get you started:
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValeriaWong&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValeriaWong&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValeriaWong&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValeriaWong&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValeriaWong&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValeriaWong&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValeriaWong&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValeriaWong&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValeriaWong&theme=github_dark)
