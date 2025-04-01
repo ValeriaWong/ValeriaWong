@@ -24,7 +24,7 @@
 
 ## 💬 Talk with me 
 - Struggling for ethsis(VQA, NLP)
-- AI engineer(python, langchain)
+- Algorithm Engineering (LLM pretraining)
 - prompt engineer(CoT, ToT)
 - DevOps(jenkins, nginx, CI/CD)
 - Frontend web development(vue, react, docker)
